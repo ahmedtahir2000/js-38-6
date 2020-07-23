@@ -1,0 +1,29 @@
+div.main{
+    width: 100%;
+    text-align:center;
+}
+.box{
+    float: left;
+    width: 25%;
+    display: inline-block;
+}
+
+.box img{
+    width: 100%;
+}
+body{
+    text-align: center;
+}
+.count{
+    margin: 20px auto;
+    width: 100px;
+    padding: 20px;
+    background-color: black;
+    color:white;
+}
+.container{overflow: hidden}
+.tab{float: left;}
+.tab-2{margin-left: 50px}
+.tab-2 input{display: block;margin-bottom: 10px}
+tr{transition:all .25s ease-in-out}
+tr:hover{background-color:#EEE;cursor: pointer}
